@@ -23,6 +23,6 @@ public class GoogleBillboard {
                 return taco;
             }
         }
-        return (Long)null;
+        return -1;
     }
 }
